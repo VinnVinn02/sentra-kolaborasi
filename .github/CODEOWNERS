@@ -1,2 +1,4 @@
-* @VinnVinn02 @febriano01
-*.sh @febriano01 @varrellRKS3A
+# Seluruh berkas ditinjau oleh Maintainer secara baku
+*       @VINNVINN02
+# Skrip shell wajib ditinjau kedua Developer
+*.sh    @febriano01 @Pratamaa7
