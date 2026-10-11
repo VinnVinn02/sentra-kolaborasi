@@ -1,0 +1,12 @@
+# Sentra Kolaborasi
+Repository bersama praktikum DevOps - Politeknik Negeri Batam.
+## Anggota Tim
+| Peran | Nama | Akun GitHub |
+|---|---|---|
+| Maintainer | M. Maulana Alpidie Deputra | @VinnVinn02 |
+| Developer A | Ibra | @febriano01 |
+| Developer B | Varrell Rabbani Abrar | @VarrellRA26 |
+## Konvensi Branch
+feat/ fix/ docs/ chore/ hotfix/
+## Daftar Skrip
+- setup.sh - menyiapkan lingkungan dan menjalankan smoke test
