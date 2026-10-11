@@ -4,7 +4,7 @@ Repository bersama praktikum DevOps - Politeknik Negeri Batam.
 | Peran | Nama | Akun GitHub |
 |---|---|---|
 | Maintainer | M. Maulana Alpidie Deputra | @VinnVinn02 |
-| Developer A | Ibra | @febriano01 |
+| Developer A | Ibra Febriano| @febriano01 |
 | Developer B | Varrell Rabbani Abrar | @varrellRKS3A |
 ## Konvensi Branch
 feat/ fix/ docs/ chore/ hotfix/
