@@ -11,3 +11,4 @@ feat/ fix/ docs/ chore/ hotfix/
 ## Daftar Skrip
 - setup.sh - menyiapkan lingkungan dan menjalankan smoke test
 - healthcheck.sh - memeriksa status layanan
+- monitoring.sh - memantau layanan secara berkala
